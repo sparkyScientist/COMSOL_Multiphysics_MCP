@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# COMSOL
+*.mph
+*.mph-lock
+*.mphbin
+
+# Environment and secrets
+.env
+*.log
+
+# Project runtime artifacts
+comsol_recipes.json
+comsol_knowledge_base.json
+comsol_analytic_vars.json
+comsol_changes.json
+comsol_autofix_report.json
+comsol_validation_report.json
+solved_models/
+comsol_models/
+plots/
+knowledge_base/
+
+# Java crash logs
+hs_err_pid*.log

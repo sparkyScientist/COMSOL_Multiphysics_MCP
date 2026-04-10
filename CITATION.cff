@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: COMSOL Multiphysics MCP Server
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Jui
+    family-names: Junnarkar
+    affiliation: Rice University
+    orcid: "https://orcid.org/0000-0003-3789-7846"
+version: 0.1.0
+date-released: "2026-04-10"
+license: MIT
+repository-code: https://github.com/sparkyScientist/COMSOL_Multiphysics_MCP
+doi: ""
+abstract: >-
+  Physics-aware MCP server for COMSOL Multiphysics.
+  Enables LLM-driven mesh generation, solver configuration,
+  parametric sweeps, analytic gas property bypass, and
+  automated 2D-to-3D model conversion via the COMSOL Java API.
+references:
+  - type: software
+    title: COMSOL_Multiphysics_MCP
+    authors:
+      - name: wjc9011
+    repository-code: https://github.com/wjc9011/COMSOL_Multiphysics_MCP
+    license: MIT
