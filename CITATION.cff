@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-3789-7846"
 version: 0.1.0
 date-released: "2026-04-10"
-license: MIT
+license: GPL-3.0-or-later
 repository-code: https://github.com/sparkyScientist/COMSOL_Multiphysics_MCP
 doi: ""
 abstract: >-

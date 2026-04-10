@@ -3,7 +3,7 @@
 **Physics-aware MCP tooling for COMSOL via Java API**
 
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ## What This Is
@@ -177,6 +177,6 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+GPL-3.0. See [LICENSE](LICENSE).
 
-Upstream: [wjc9011/COMSOL_Multiphysics_MCP](https://github.com/wjc9011/COMSOL_Multiphysics_MCP) (MIT License).
+Upstream portions from [wjc9011/COMSOL_Multiphysics_MCP](https://github.com/wjc9011/COMSOL_Multiphysics_MCP) retain their original MIT License attribution.
