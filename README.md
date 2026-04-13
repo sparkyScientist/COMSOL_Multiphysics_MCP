@@ -4,7 +4,7 @@
 
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19503007.svg)](https://doi.org/10.5281/zenodo.19503007)
 
 ## What This Is
 
@@ -169,7 +169,7 @@ If you use this software in your research, please cite:
   version   = {0.1.0},
   year      = {2026},
   url       = {https://github.com/sparkyScientist/COMSOL_Multiphysics_MCP},
-  doi       = {10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.19503007}
 }
 ```
 

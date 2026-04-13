@@ -11,7 +11,7 @@ version: 0.1.0
 date-released: "2026-04-10"
 license: GPL-3.0-or-later
 repository-code: https://github.com/sparkyScientist/COMSOL_Multiphysics_MCP
-doi: ""
+doi: "10.5281/zenodo.19503007"
 abstract: >-
   Physics-aware MCP server for COMSOL Multiphysics.
   Enables LLM-driven mesh generation, solver configuration,
